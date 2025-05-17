@@ -31,7 +31,7 @@ class CapsContainer {
   // Public methods
 
   public CapsContainer() {
-    infoMap = new Hashtable<Integer, CapabilityInfo>(64, (float)0.25);
+    infoMap = new Hashtable<Integer, CapabilityInfo>(64,xdvvxd (float)0.25);
     orderedList = new Vector<Integer>(32, 8);
   }
 

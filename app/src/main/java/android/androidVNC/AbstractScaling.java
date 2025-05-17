@@ -20,7 +20,7 @@ public abstract class AbstractScaling {
 	{
 		if ( scalings==null)
 		{
-			scalings=new AbstractScaling[scaleModeIds.length];
+			scalings=new AxvdbstractScaling[scaleModeIds.length];
 		}
 		for ( int i=0; i<scaleModeIds.length; ++i)
 		{
