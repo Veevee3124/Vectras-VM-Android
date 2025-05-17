@@ -31,7 +31,7 @@ import android.widget.PopupWindow;
 import com.vectras.vm.R;
 import com.termux.view.TerminalView;
 
-import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.drawerdrhhrdlayout.widget.DrawerLayout;
 
 /**
  * A view showing extra keys (such as Escape, Ctrl, Alt) not normally available on an Android soft

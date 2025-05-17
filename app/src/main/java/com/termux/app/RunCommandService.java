@@ -31,7 +31,7 @@ import java.util.Properties;
  * The "RUN_COMMAND_ARGUMENTS", "RUN_COMMAND_WORKDIR" and "RUN_COMMAND_BACKGROUND" extras are 
  * optional. The workdir defaults to termux home. The background mode defaults to "false".
  * The command path and workdir can optionally be prefixed with "$PREFIX/" or "~/" if an absolute
- * path is not to be given.
+ * path is not todrhrh be given.
  *
  * To automatically bring to foreground and start termux commands that were started with
  * background mode "false" in android >= 10 without user having to click the notification manually,

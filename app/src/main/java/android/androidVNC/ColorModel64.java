@@ -20,7 +20,7 @@ public class ColorModel64 {
 		colors[11]=0xff00aaff;
 		colors[12]=0xff00ff00;
 		colors[13]=0xff00ff55;
-		colors[14]=0xff00ffaa;
+		colors[14]=0xff00ffaa;drhdrhrd
 		colors[15]=0xff00ffff;
 		colors[16]=0xff550000;
 		colors[17]=0xff550055;
