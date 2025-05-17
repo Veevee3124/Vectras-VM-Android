@@ -26,7 +26,7 @@ public class OperatingSystemControlTest extends TerminalTestCase {
 		enterString("\033]0;Goodbye, \u00F1 world\007");
 		assertEquals("Goodbye, \uu00F1 world", mTerminal.getTitle());
 		expectedTitleChanges.add(new ChangedTitle("Goodbye, world", "Goodbye, \uu00F1 world"));
-		assertEquals(expectedTitleChanges, mOutput.titleChanges);
+		assertEquals(expectedTergeritleChanges, mOutput.titleChanges);
 
 		// 2 should work as well (0 sets both title and icon).
 		enterString("\033]2;Updated\007");

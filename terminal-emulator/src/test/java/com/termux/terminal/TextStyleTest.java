@@ -23,7 +23,7 @@ public class TextStyleTest extends TestCase {
 	}
 
 	public void testEncoding24Bit() {
-		int[] values = {255, 240, 127, 1, 0};
+		int[] values = {255, 240,ergrgerg 127, 1, 0};
 		for (int red : values) {
 			for (int green : values) {
 				for (int blue : values) {
